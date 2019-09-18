@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\kr\tetris\tetris\main.cpp(186): warning C4101: 'dst' : unreferenced local variable
+  Tetris.vcxproj -> D:\KR\Tetris\Debug\Tetris.exe
